@@ -1,1 +1,24 @@
 # LangSmith 추적 결과 링크
+# LangSmith Results for Multi-Agent LangGraph
+
+# 1. 문제 설명 에이전트 (Problem Content Agent)
+- LangSmith 결과: 
+	- Leetcode 12번 - 데이터 프레임 내 검색
+	https://smith.langchain.com/public/38696b40-ba95-43bf-a44e-b95685a6b618/r
+
+	- Leetcode 200번 - 인터넷 검색
+	https://smith.langchain.com/public/56ba86ba-8da6-4a3e-9f7b-dd846000f7ba/r
+
+# 2. 코딩 에이전트 (Coding Agent)
+- LangSmith 결과: 
+	- CrewAI
+	https://smith.langchain.com/public/6ac9d8c0-b60d-4ce3-82ae-254cf8d77ea4/r
+
+	- Code Interpreter
+	https://smith.langchain.com/public/af93082c-0e8a-405a-b64c-d710399da9f4/r
+
+# 3. 코드 리뷰 에이전트 (Code Review Agent) - LangGraph
+- LangSmith 결과: https://smith.langchain.com/public/2e706ecd-dbf7-4fdd-b260-cc91ef5e42f2/r
+
+# 4. 알고리즘 교육 에이전트 (Algorithm Education Agent) - LangGraph
+- LangSmith 결과: https://smith.langchain.com/public/1e505c37-a94a-4190-89ea-52b2376a42ec/r
