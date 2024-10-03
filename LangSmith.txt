@@ -1,4 +1,4 @@
-# LangSmith 추적 결과 링크
+# LangSmith 추적 결과 링크 - 단일 Agent
 # LangSmith Results for Multi-Agent LangGraph
 
 # 1. 문제 설명 에이전트 (Problem Content Agent)
