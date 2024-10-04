@@ -1,4 +1,4 @@
-###### 개인 프로젝트
+###### 개인 프로젝트 / *추후 RAG에 관한 내용도 추가 예정입니다.*
 
 # CodeMind-MultiAgent-RAG
 - 본 프로젝트는 goorm CodeMind팀의 [파이널 프로젝트](https://github.com/LimYeri/CodeMind_project)를 확장한 **두 번째 개인 연구**입니다.
@@ -16,7 +16,7 @@
 - gpt-3.5-turbo
 
 ## 주요 기능
-- CSV 문서 기반 코딩 테스트 문제 설명
+- 데이터 프레임 내용 기반 코딩 테스트 문제 설명
 - 웹 검색 기반 코딩 테스트 문제 설명
 - Python 코드 생성
 - 사용자 코드 정밀 분석
