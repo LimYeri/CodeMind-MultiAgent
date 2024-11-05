@@ -1,6 +1,6 @@
 ###### 개인 프로젝트 
 
-# CodeMind-MultiAgent-RAG
+# CodeMind-MultiAgent
 - 본 프로젝트는 goorm CodeMind팀의 [파이널 프로젝트](https://github.com/LimYeri/CodeMind_project)를 확장한 **두 번째 개인 연구**입니다.
 - *Langchain*과 *CrewAI* 라이브러리를 활용하여, 문제 설명, 프로그래밍, 알고리즘 및 자료구조 교육을 위한 다양한 에이전트를 생성하고, **사용자 입력에 따라 문서 검색, 웹 검색, 코드 실행 등을 자동화**하는 시스템입니다.
 <br>
